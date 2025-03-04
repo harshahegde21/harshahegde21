@@ -7,6 +7,8 @@ I am a student at Sahyadri College of Engineering, Mangaluru, with a strong pass
 
 # 💻 Tech Stack:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%23239163.svg?style=for-the-badge&logo=css3&logoColor=white)    ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+
 
  ![Data Structures](https://img.shields.io/badge/data%20structures-%2300C851.svg?style=for-the-badge&logo=databricks&logoColor=white) ![Algorithms](https://img.shields.io/badge/algorithms-%2300C851.svg?style=for-the-badge&logo=databricks&logoColor=white)
 
