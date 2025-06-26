@@ -11,6 +11,7 @@ I am a student at Sahyadri College of Engineering, Mangaluru, with a strong pass
 
 
  ![Data Structures](https://img.shields.io/badge/data%20structures-%2300C851.svg?style=for-the-badge&logo=databricks&logoColor=white) ![Algorithms](https://img.shields.io/badge/algorithms-%2300C851.svg?style=for-the-badge&logo=databricks&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%2300C851.svg?style=for-the-badge&logo=netlify&logoColor=white)
 
 
 # 📊 GitHub Stats:
