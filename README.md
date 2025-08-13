@@ -26,9 +26,9 @@ I am a student at Sahyadri College of Engineering, Mangaluru, with a strong pass
 ![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)   
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harshahegde21&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com?user=harshahegde21&theme=default_repocard&hide_border=false)  
-*🔥 Current Streak and Max Streak are shown above in the streak stats card.*
+| GitHub Stats | Streak Stats |
+|--------------|--------------|
+| ![](https://github-readme-stats.vercel.app/api?username=harshahegde21&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true) | ![](https://github-readme-streak-stats.herokuapp.com/?user=harshahegde21&theme=default_repocard&hide_border=false) |
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshahegde21&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
