@@ -1,4 +1,4 @@
-  # 💫 About Me:
+ # 💫 About Me:
 I am a student at Sahyadri College of Engineering, Mangaluru, with a strong passion for problem-solving and software development. I always love to learn and explore new things, continually enhancing my skills and embracing new challenges in the tech world. I'm dedicated to growing and making impactful contributions through innovative solutions
 
 
@@ -27,6 +27,13 @@ I am a student at Sahyadri College of Engineering, Mangaluru, with a strong pass
 ![](https://github-readme-stats.vercel.app/api?username=harshahegde21&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=harshahegde21&theme=default_repocard&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=harshahegde21&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🗓️ Contributions
+**Last Year (2024):**  
+![Contributions 2024](https://github-contributions.vercel.app/api/v1/harshahegde21?from=2024-01-01&to=2024-12-31)
+
+**This Year (2025):**  
+![Contributions 2025](https://github-contributions.vercel.app/api/v1/harshahegde21?from=2025-01-01&to=2025-12-31)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=harshahegde21&icon=0&color=0)](https://visitcount.itsvg.in)
