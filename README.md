@@ -1,6 +1,7 @@
   # 💫 About Me:
 I am a CSE student at Sahyadri College of Engineering, Mangaluru, with a strong passion for problem-solving and software development. I always love to learn and explore new things, continually enhancing my skills and embracing new challenges in the tech world. I'm dedicated to growing and making impactful contributions through innovative solutions
 
+![Profile views](https://komarev.com/ghpvc/?username=harshahegde21)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harsha_hegde_70) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshahegde) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/HarshaHegde2131) 
@@ -19,8 +20,6 @@ I am a CSE student at Sahyadri College of Engineering, Mangaluru, with a strong 
 
 
 
-
-![Profile views](https://komarev.com/ghpvc/?username=harshahegde21)
 
 
 # 📊 GitHub Stats:
