@@ -20,7 +20,7 @@ I am a CSE student at Sahyadri College of Engineering, Mangaluru, with a strong 
 
 
 
-
+![Profile views](https://komarev.com/ghpvc/?username=harshahegde21)
 
 
 # 📊 GitHub Stats:
