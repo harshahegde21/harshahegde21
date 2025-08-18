@@ -1,5 +1,5 @@
   # 💫 About Me:
-I am a student at Sahyadri College of Engineering, Mangaluru, with a strong passion for problem-solving and software development. I always love to learn and explore new things, continually enhancing my skills and embracing new challenges in the tech world. I'm dedicated to growing and making impactful contributions through innovative solutions
+I am a student at Sahyadri College of Engineering, Mangaluru, with a strong passion for problem-solving and software development. I always love to learn and explore new things, continually enhancing my skills and embracing new challenges in the tech world. I'm dedicated to growing and making impactful contributions through innovative solutions.
 
 ![Profile views](https://komarev.com/ghpvc/?username=harshahegde21)
 ## 🌐 Socials:
