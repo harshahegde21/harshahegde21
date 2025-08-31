@@ -3,7 +3,7 @@ I am a student at Sahyadri College of Engineering, Mangaluru, with a strong pass
 
 ![Profile views](https://komarev.com/ghpvc/?username=harshahegde21)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://your-portfolio-link.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://harshahegde.netlify.app)
 
 
 ## 🌐 Socials:
